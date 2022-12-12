@@ -1,7 +1,8 @@
-
+[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUpyM3BnVEt5cHFGMmJZNElMTEFDVWlFNXhrQXxBQ3Jtc0ttZGpoYzB1Q1YzNk9CSTU5N0ZVd1FSZWRiQkxqVEJCd2hCOFBkbXE2V2hNb2VzRWQ3NjNiS2xLbDhZbTNEc1RWcWtxZzVzUnhuRU1odUItbk94ZUxycW5GQ0EzanpVd3QtVkFIS0s5R1Flb1hVNzk2NA&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)](https://umavenkatreddy.io)
 <h1 align="center">Hi 👋, I'm Umavenkatreddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+<img align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umavenkatreddy&label=Profile%20views&color=0e75b6&style=flat" alt="umavenkatreddy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/umavenkatreddy yerrasani" target="blank"><img src="https://img.shields.io/twitter/follow/umavenkatreddy yerrasani?logo=twitter&style=for-the-badge" alt="umavenkatreddy yerrasani" /></a> </p>
